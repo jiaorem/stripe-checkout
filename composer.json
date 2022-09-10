@@ -1,0 +1,6 @@
+{
+    "name": "user/stripe",
+    "require": {
+        "stripe/stripe-php": "^9.5"
+    }
+}
